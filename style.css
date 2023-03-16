@@ -3,6 +3,7 @@
 * {
     font-family: 'K2D', sans-serif;
     box-sizing: border-box;
+    user-select: none;
 }
 body{
     background-color: #252422;
